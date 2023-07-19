@@ -1,0 +1,17 @@
+# Pi-Estimator
+
+## Usage
+
+## Installation
+
+## Author
+
+* VOID404 (wojciech.nawa@proton.me)
+
+## Copyright
+
+Copyright (c) 2023 VOID404 (wojciech.nawa@proton.me)
+
+## License
+
+Licensed under the MPL-2.0 License.
